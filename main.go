@@ -16,6 +16,6 @@ var albums = []album{
 func getAlbums(c *gin.Context)  {
 	c.
 }
-func soy() {
+func soyEl() {
 	fmt.Println("hola")
 }
