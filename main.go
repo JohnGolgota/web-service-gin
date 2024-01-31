@@ -19,3 +19,7 @@ func getAlbums(c *gin.Context)  {
 func soyEl() {
 	fmt.Println("hola")
 }
+
+func ComoBorrarMisCredencialesDeGit() {
+	fmt.Println("en el pc del trabajo")
+}
