@@ -22,4 +22,5 @@ func soyEl() {
 
 func ComoBorrarMisCredencialesDeGit() {
 	fmt.Println("en el pc del trabajo")
+	fmt.Println("como se hace?")
 }
